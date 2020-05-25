@@ -5,13 +5,13 @@ small, alpine based, container with a Samba4 AD
 
 # Status
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/bodsch/docker-samba4.svg?branch)][hub]
-[![Image Size](https://images.microbadger.com/badges/image/bodsch/docker-samba4.svg?branch)][microbadger]
-[![Build Status](https://travis-ci.org/bodsch/docker-samba4.svg?branch)][travis]
+[![Docker Pulls](https://img.shields.io/docker/pulls/gmarco/docker-samba4.svg?branch)][hub]
+[![Image Size](https://images.microbadger.com/badges/image/gmarco/docker-samba4.svg?branch)][microbadger]
+[![Build Status](https://travis-ci.org/gmarco/docker-samba4.svg?branch)][travis]
 
-[hub]: https://hub.docker.com/r/bodsch/docker-samba4/
-[microbadger]: https://microbadger.com/images/bodsch/docker-samba4
-[travis]: https://travis-ci.org/bodsch/docker-samba4
+[hub]: https://hub.docker.com/r/bgmarco/docker-samba4/
+[microbadger]: https://microbadger.com/images/gmarco/docker-samba4
+[travis]: https://travis-ci.org/gmarco/docker-samba4
 
 # Build
 
