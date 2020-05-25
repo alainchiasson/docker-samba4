@@ -11,9 +11,6 @@ ARG SAMBA_VERSION
 ENV \
   TZ=UTC
 
-# ---------------------------------------------------------------------------------------
-
-# hadolint ignore=DL3017,DL3018,DL3019
 RUN \
   apk update  --quiet && \
   apk upgrade --quiet && \
