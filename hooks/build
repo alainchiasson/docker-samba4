@@ -11,5 +11,5 @@ docker build \
   --build-arg BUILD_DATE=${BUILD_DATE} \
   --build-arg BUILD_VERSION=${BUILD_VERSION} \
   --build-arg SAMBA_VERSION=${SAMBA_VERSION} \
-  --tag gmarco/docker-samba4:4.12.2 .
+  --tag gmarco/samba4:latest .
   #--tag ${DOCKER_NAME_SPACE}/${DOCKER_IMAGE_NAME}:${DOCKER_VERSION} .
