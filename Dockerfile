@@ -40,7 +40,9 @@ RUN \
 
 COPY rootfs/ /
 
-VOLUME ["/srv" "/etc/samba" "/var/lib/samba"]
+VOLUME ["/srv"]
+VOLUME ["/etc/samba"]
+VOLUME ["/var/lib/samba"]
 
 CMD ["/init/run.sh"]
 
